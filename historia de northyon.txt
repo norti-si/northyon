@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 NORTHYON: REALMS OF ETERNITY
 HISTORIA DO MUNDO E CAMPANHA
 
@@ -149,3 +150,156 @@ TEMA
 A pergunta de NORTHYON nao e apenas como salvar o mundo. E quem pode decidir o que significa salva-lo — e o que deve ser sacrificado para isso.
 
 O aventureiro nao recebe importancia por destino. Torna-se importante porque escolhe observar, escutar e agir quando os outros preferem repetir as certezas herdadas.
+=======
+NORTHYON: REALMS OF ETERNITY
+HISTORIA DO MUNDO E CAMPANHA
+
+PREMissa
+
+O jogador nao nasce escolhido. NORTHYON e um mundo ferido por uma catastrofe antiga, e cada povo herdou apenas uma parte da verdade. A aventura comeca quando alguem comum decide investigar aquilo que todos aprenderam a temer.
+
+PROLOGO — A PRIMEIRA LUZ
+
+Antes de haver medida para o tempo, existia o Vazio. Dele surgiu o Aether: nao uma divindade, mas a energia que permite que a materia, a memoria e a vida existam.
+
+Quando o Aether se expandiu, nasceu NORTHYON. Montanhas perfuraram as nuvens, rios luminosos abriram caminho sob florestas ancestrais e ilhas se ergueram sobre mares de nevoa. Onde a energia era abundante, a natureza inventava formas de vida que nenhum povo saberia nomear.
+
+Por eras, o mundo encontrou seu proprio equilibrio. Entao, uma civilizacao tentou transforma-lo em uma lei que pudesse controlar.
+
+CAPITULO I — A RUPTURA CELESTIAL
+
+Os povos atuais chamam de Primeiros a civilizacao que existia antes das tres coroas. Seus nomes, lingua e origem foram quase apagados. O que restou em muralhas partidas sugere que eram estudiosos, construtores e sobreviventes de um mundo cujo Aether se tornava instavel.
+
+Para impedir que a energia primordial consumisse NORTHYON, os Primeiros criaram o Coracao da Eternidade. O artefato reuniria e estabilizaria as correntes de Aether. Pelo menos, essa era a intencao.
+
+Na noite da ativacao, uma presenca respondeu do outro lado da realidade.
+
+O ceu se abriu. Continentes se separaram, cidades afundaram e montanhas foram lancadas acima das nuvens. O oceano central tornou-se um abismo coberto por nevoa. O Coracao se partiu em fragmentos, espalhados por lugares que deixaram de obedecer as leis conhecidas.
+
+Alguma coisa atravessou a fissura. Os registros a chamam de Devorador do Veu: uma consciencia sem corpo fixo, capaz de consumir Aether, torcer a vida e falar por meio de criaturas corrompidas.
+
+Os Primeiros desapareceram. Nao se sabe se morreram, se fugiram ou se tornaram os guardioes que ainda assombram as ruinas.
+
+A catastrofe ficou conhecida como Ruptura Celestial. O mundo sobreviveu, mas a ferida permaneceu aberta.
+
+CAPITULO II — TRES POVOS, TRES MEMORIAS
+
+Com os seculos, tres povos floresceram nas terras que resistiram a Ruptura. Nenhum conhece a historia inteira. Cada povo preservou uma memoria diferente — e transformou essa memoria em uma maneira de viver.
+
+OS HUMANOS
+Cidade ancestral: Cidade da Aurora
+
+Os humanos reconstruiram estradas, arquivos e fortalezas sobre as fundacoes dos Primeiros. Acreditam que compreender o passado e a unica forma de proteger o futuro. Seus guardioes defendem os caminhos e as cidades com disciplina, estrategia e aço.
+
+Sua virtude e a determinacao. Seu risco e confundir conhecimento com direito de posse.
+
+OS ALADOS
+Cidade ancestral: Santuario Celeste
+
+Os alados nasceram nas alturas onde correntes de Aether sustentam pontes de pedra e jardins suspensos. Suas asas sao parte da identidade, nao um ornamento. Vigias e arqueiros mantem os santuarios, observam as estrelas e reconhecem mudancas no vento antes que aparecam no horizonte.
+
+Sua virtude e a percepcao. Seu risco e preservar o equilibrio escondendo verdades que deveriam pertencer a todos.
+
+OS SELVAGENS
+Cidade ancestral: Refugio Primordial
+
+Os selvagens sobreviveram em territorios que a Ruptura tornou hostis. Tracos animais, chifres, pelagens e marcas ancestrais variam entre suas linhagens. Sua memoria vive em cantos, rituais e historias transmitidas junto ao fogo.
+
+Sua virtude e a coragem. Seu risco e proteger a terra de toda mudanca, inclusive daquela que pode salva-la.
+
+Os povos comerciaram, disputaram fronteiras e fizeram treguas. Por muito tempo, a distancia entre suas cidades pareceu suficiente para manter a paz.
+
+CAPITULO III — TRES LUZES NO CEU
+
+O primeiro sinal surgiu na Cidade da Aurora: uma fonte subterranea secou em uma unica noite, deixando no fundo um desenho que nenhum escriba reconheceu.
+
+No Santuario Celeste, uma constelacao antiga perdeu uma estrela. Os vigias juraram que a luz nao havia morrido; ela estava sendo puxada para baixo, como se o ceu tivesse uma mare.
+
+No Refugio Primordial, os animais abandonaram seus caminhos. Os anciaos ouviram passos sob as raizes e encontraram marcas de garras em pedra macica.
+
+Entao, tres feixes cruzaram o firmamento: dourado, azul e violeta. Por um instante, todas as sombras apontaram para o mesmo lugar, alem das fronteiras conhecidas.
+
+Depois vieram as criaturas alteradas, os monolitos que vibravam sem serem tocados e as ruinas que repetiam nomes em uma lingua esquecida. Algumas expedicoes nao voltaram. Outras regressaram sem memoria dos dias que haviam passado.
+
+O Aether nao desaparecia. Estava sendo atraido, concentrado e consumido.
+
+CAPITULO IV — A FRONTEIRA DE AURORA
+
+A primeira jornada jogavel acontece na Fronteira de Aurora, uma regiao de trilhas antigas, ruinas quebradas e cristais que pulsavam antes mesmo da chegada do aventureiro. Uma coluna de pedra, o Monolito, emite um brilho que muda sempre que uma criatura corrompida cai.
+
+Maelis, guardia da fronteira, viu o primeiro ataque e permaneceu para proteger os caminhos. Ela nao sabe o que causou a corrupcao. Sabe apenas que todas as criaturas trazem a mesma marca, embora tenham surgido em lugares diferentes.
+
+Ao encontrar o personagem, Maelis pede que investigue os arredores e derrote tres criaturas. A tarefa parece simples: diminuir a ameaca e descobrir de onde vem a luz que desperta as ruinas.
+
+Mas os fragmentos que restam depois do combate nao sao trofeus. Cada um guarda uma lembranca: uma cidade sob a terra, uma voz pedindo que o Coracao nao seja reunido e o som distante de algo respirando atras do Veu.
+
+O primeiro episodio termina com uma pergunta, nao com uma resposta: por que a corrupcao reconhece o Aether do personagem?
+
+CAPITULO V — O PERSONAGEM SEM DESTINO
+
+O povo escolhido muda o ponto de partida, mas nao torna o protagonista escolhido por profecia.
+
+O guerreiro humano deixa a Cidade da Aurora para seguir as criaturas que atacaram os postos de fronteira. Seu povo quer estudar os fragmentos e reconstruir os mapas antigos.
+
+O arqueiro alado parte do Santuario Celeste apos o desaparecimento de guardioes que patrulhavam as correntes de vento. Seu povo teme que as estrelas estejam sendo usadas como caminho para algo que vem de fora.
+
+O barbaro selvagem recebe a tarefa de descobrir por que as feras abandonam o Refugio Primordial. Seu povo suspeita que as ruinas estejam despertando aquilo que os ancestrais prometeram manter adormecido.
+
+No inicio, cada jornada e local. Aos poucos, os mesmos simbolos surgem em pedras, armas e relatos de culturas que nunca se encontraram. As tres historias convergem para uma mesma certeza: alguem esta procurando os fragmentos do Coracao.
+
+CAPITULO VI — O ABISMO E A VERDADE
+
+No centro de NORTHYON existe uma regiao ausente dos mapas: o Abismo de Aether. A cidade dos Primeiros repousa sob um mar de nevoa, preservada em alguns lugares e consumida em outros. O tempo passa de maneira diferente entre suas ruinas.
+
+Ali, os sobreviventes deixaram a explicacao que nao conseguiram levar ao futuro: o Coracao nao foi criado para dominar o Aether. Foi criado para conter uma instabilidade que ameacava desfazer o mundo.
+
+Quando o artefato foi ativado, a fissura permitiu que o Devorador encontrasse NORTHYON. A Ruptura espalhou os fragmentos, mas tambem impediu que a presenca atravessasse por completo. Reuni-los talvez feche o caminho. Reuni-los tambem pode chamar aquilo que esta do outro lado.
+
+O Devorador nao deseja apenas destruir. Ele oferece a cada povo uma solucao que parece feita sob medida: poder e certeza aos humanos, silencio e equilibrio aos alados, protecao imutavel aos selvagens. Sua corrupcao cresce quando alguem aceita que so existe uma resposta.
+
+CAPITULO VII — A GUERRA DAS TRES COROAS
+
+Quando a verdade se torna impossivel de esconder, os povos discordam sobre o destino dos fragmentos.
+
+Os humanos querem reunir o Coracao e estudar sua capacidade de estabilizar o mundo.
+
+Os alados defendem destruir cada fragmento, mesmo que parte do Aether desapareca junto com ele.
+
+Os selvagens temem que qualquer tentativa de usar o artefato abra por completo a passagem para o Devorador.
+
+Nenhuma posicao e inteiramente justa. A disputa pelas reliquias transforma antigas desconfiancas em guerra. Algumas criaturas corrompidas ainda reconhecem nomes, lugares e pessoas que amaram. Algumas faccoes aprendem a usar a corrupcao em beneficio proprio.
+
+O protagonista atravessa as fronteiras, nao como embaixador escolhido, mas como alguem que ja ouviu as tres versoes e sabe que todas omitem uma parte.
+
+O MISTERIO CENTRAL
+
+O ultimo guardiao dos Primeiros revela uma verdade que muda o significado da escolha: NORTHYON nao e apenas um mundo ferido. E tambem a prisao que mantem o Devorador adormecido.
+
+Restaurar o Coracao pode reforcar as barreiras — ou despertar a consciencia aprisionada.
+
+Destruir os fragmentos pode impedir que alguem use o artefato — ou deixar o mundo sem defesa contra uma nova Ruptura.
+
+Existe ainda uma terceira possibilidade, escondida em registros que nenhuma coroa considera confiaveis. Para encontra-la, os povos terao de aceitar que a solucao nao pode pertencer a um so deles.
+
+DESFECHOS POSSIVEIS DA CAMPANHA
+
+1. RESTAURAR: reconstruir o Coracao, estabilizar o Aether e enfrentar o risco de acordar o Devorador.
+2. DESTRUIR: encerrar a disputa pelas pecas e aceitar um mundo menos magico, mais fragil e livre de um poder absoluto.
+3. TRANSFORMAR: descobrir como redistribuir o Aether sem reconstruir a prisao nem libertar quem esta dentro dela.
+
+Essas decisoes pertencem a uma campanha futura. A primeira aventura deve plantar pistas, nao antecipar um final que o jogador ainda nao conquistou.
+
+HISTORIA CONTADA PELO MUNDO
+
+- Monolitos mudam de brilho quando fragmentos se aproximam.
+- Inscricoes incompletas oferecem relatos incompatíveis da Ruptura.
+- NPCs de povos diferentes interpretam o mesmo simbolo de formas opostas.
+- Criaturas corrompidas deixam ecos de memoria antes de desaparecer.
+- Registros dos Primeiros contradizem a ideia de que o Devorador foi o primeiro a atravessar.
+
+TEMA
+
+A pergunta de NORTHYON nao e apenas como salvar o mundo. E quem pode decidir o que significa salva-lo — e o que deve ser sacrificado para isso.
+
+O aventureiro nao recebe importancia por destino. Torna-se importante porque escolhe observar, escutar e agir quando os outros preferem repetir as certezas herdadas.
+>>>>>>> c252e1a04a157bcaa2ce28e880d8238f53df6eb4

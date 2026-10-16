@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 NORTHYON: REALMS OF ETERNITY
 PLANO DE PRODUTO E IMPLEMENTACAO
 
@@ -149,3 +150,156 @@ Eventos para salvar: criacao, subida de nivel, pontos de atributo, mudanca de ma
 - Nenhum recurso externo ou API requer chave secreta no frontend.
 
 FIM DO PLANO
+=======
+NORTHYON: REALMS OF ETERNITY
+PLANO DE PRODUTO E IMPLEMENTACAO
+
+1. VISAO
+
+NORTHYON e um RPG de fantasia original para navegador, com exploracao em terceira pessoa, combate direcionado, progresso classico e um mundo construído em torno do Aether e da Ruptura Celestial. A referencia de experiencia e o MMORPG de fantasia com cidades monumentais, classes marcantes, criaturas, missões e evolucao; codigo, personagens, historia e arte devem permanecer proprios.
+
+O objetivo imediato e entregar uma fatia jogavel consistente, nao fingir que uma demo local ja e um MMORPG online. A versao atual e single-player, renderizada em 3D com React, Three.js, React Three Fiber e Drei. Personagens, criaturas, ruinas e efeitos do prototipo sao modelos procedurais originais, feitos com geometrias e materiais da propria cena; nao dependem de modelos ou audio proprietarios.
+
+2. ESTADO ATUAL DO PROTOTIPO
+
+Implementado:
+- Tela de titulo, selecao de povo e criacao de personagem com previa 3D.
+- Tres povos/classes com aparencia, atributos iniciais, cidades e regioes de origem.
+- Fronteira de Aurora exploravel em terceira pessoa, com ruinas, cristais, monolito, vegetacao, plataformas ao longe e particulas de Aether.
+- Seis criaturas com formas 3D distintas, selecao de alvo, vida, dano, alcance, aproximacao automatica para habilidades e reaparecimento.
+- Ataques, criticos, mana, pocao, XP, subida de nivel, cinco pontos de atributo por nivel e distribuicao manual.
+- Missao introdutoria com dialogo, tres eliminacoes, recompensa de XP, moedas e fragmentos.
+- HUD com vida, mana, XP, alvo, minimapa, registro de combate, barra de habilidades e atalhos para mochila, personagem e mapa.
+- Salvamento local no navegador ao mudar o progresso, a cada 60 segundos e ao sair; opcao de continuar a ultima jornada.
+- Interface adaptavel a telas menores. Teclado e mouse sao os controles principais do prototipo.
+
+Limites conhecidos e deliberados desta fase:
+- A implementacao atual usa JavaScript/JSX, nao TypeScript.
+- A persistencia e localStorage. Firebase Authentication, Cloud Firestore e validacao de servidor ainda nao estao configurados.
+- Nao ha multiplayer, servidor autoritativo, contas, economia compartilhada ou anti-cheat.
+- A primeira regiao e um vertical slice; as tres cidades e suas campanhas ainda nao existem como mapas exploraveis separados.
+- Personagens e criaturas usam geometrias procedurais estilizadas. Ainda nao ha rigs, captura de movimento, animacoes de combate, modelos GLTF, dublagem ou trilha.
+- A missao atual conta criaturas da fronteira; nao ha ainda cadeia de quests, inventario equipavel, loot aleatorio ou IA de combate inimiga.
+- A camera, o movimento e a interface devem continuar utilizaveis em telas menores, mas o balanceamento e a experiencia touch ainda precisam de uma rodada dedicada.
+
+3. PILARES DE EXPERIENCIA
+
+1. Fantasia de escala: horizontes, arquitetura antiga, luz volumetrica simulada, aether visivel e locais que contem historia.
+2. Personagens com identidade: silhueta, materiais, paleta, arma, povo e classe legiveis antes mesmo do combate.
+3. Combate legivel: alvo evidente, alcance compreensivel, habilidades com custo e retorno visual imediato.
+4. Progresso significativo: XP, niveis, atributos, habilidades, equipamento e missoes conectados.
+5. Narrativa descoberta: a historia chega por personagens, lugares, objetos e escolhas; nao apenas por texto expositivo.
+6. Escopo honesto: nao apresentar sistemas de nuvem, multiplayer ou conteudo que ainda nao foi implementado como funcionalidades prontas.
+
+4. DIRECAO VISUAL E PERSONAGENS
+
+- Fantasia oriental original, com ornamentacao mineral, tecido, metal patinado, madeira e simbolos proprios do Aether.
+- Iluminacao natural quente em contraste com energia turquesa, azul e violeta da corrupcao.
+- Humanos: guerreiro de armadura articulada e lamina; cores de cobre, carvao e ouro envelhecido.
+- Alados: arqueiro de silhueta leve, asas em camadas, arco e detalhes celestes.
+- Selvagens: barbaro de anatomia robusta, chifres/traços animais, peles, talismas e arma de impacto.
+- As geometrias atuais servem para estabelecer silhueta e linguagem. A proxima elevacao de qualidade e trocar os proxies por modelos GLB proprios ou assets gratuitos com licenca compativel, incluindo rig humanoide, materiais PBR e animacoes.
+- Antes de adotar um pacote de arte, verificar licenca, redistribuicao, autoria, compatibilidade mobile e tamanho de download. Nao copiar assets, nomes, interface ou audio de outros jogos.
+
+5. POVOS, CLASSES E PROGRESSAO
+
+Humano — Guardiao do Sol / Guerreiro
+- Origem: Cidade da Aurora; ponto de entrada da fatia jogavel: Fronteira de Aurora.
+- Perfil: forca e vitalidade; combate proximo, defesa e versatilidade.
+- Habilidades previstas: Golpe Solar, Corte Amplo, Guarda de Aco.
+
+Alado — Vigia do Firmamento / Arqueiro
+- Origem: Santuario Celeste; campanha inicial sobre guardioes desaparecidos.
+- Perfil: destreza, acerto critico, mobilidade e combate a distancia.
+- Habilidades previstas: Disparo Preciso, Rajada do Vento, Chuva Celeste.
+
+Selvagem — Furia Ancestral / Barbaro
+- Origem: Refugio Primordial; campanha inicial sobre feras expulsas da floresta.
+- Perfil: maior vitalidade, forca e resistencia.
+- Habilidades previstas: Golpe Pesado, Rugido Ancestral, Pele de Ferro.
+
+A cada nivel, conceder cinco pontos livres. Forca aumenta dano fisico; destreza melhora acerto/critico e dano a distancia; intelecto amplia mana e poder arcano; vitalidade aumenta vida e defesa. O nivel tambem deve desbloquear habilidades em marcos definidos. Balanceamento e formulas devem ser centralizados antes de adicionar novas classes.
+
+6. CONTROLES DO PROTOTIPO
+
+- WASD ou setas: mover em relacao a camera.
+- Shift: correr; Espaco: saltar.
+- Botao esquerdo: selecionar criatura ou interagir com Maelis.
+- Botao direito e arrastar: orbitar a camera; roda do mouse: zoom.
+- Teclas 1, 2 e 4: atacar com alvo; tecla 3: usar pocao vital.
+- E: falar com a guardia quando estiver perto.
+- I: mochila; C: atributos; M: mapa regional; Esc: fechar painel e cancelar alvo.
+
+7. LOOP DA FATIA JOGAVEL
+
+1. Criar ou continuar uma jornada e escolher nome e povo.
+2. Explorar a Fronteira de Aurora e encontrar a guardia Maelis.
+3. Aceitar “Ecos na fronteira”.
+4. Selecionar criaturas, usar ataques e habilidades, aproximar-se automaticamente e derrotar tres.
+5. Receber XP/moedas, subir de nivel, distribuir atributos e concluir a missao.
+6. Salvar localmente e continuar a jornada no mesmo navegador.
+
+8. MAPA DE SISTEMAS E PROXIMAS ETAPAS
+
+Fase A — Fundacao jogavel (atual)
+- Mundo 3D, tres identidades de personagem, selecao de alvo, habilidades, missao inicial, HUD, atributos e salvamento local.
+- Criterio: o fluxo de criacao ate conclusao da missao funciona sem erros fatais; telas, barras e estado do jogo refletem as acoes.
+
+Fase B — Qualidade de jogo
+- Usar modelos GLB licenciados/originais, rig e animacoes de locomocao, ataque, dano, morte e idle.
+- Melhorar terreno, vegetacao, cidade inicial, sombras/pos-processamento e desempenho em GPU integrada.
+- Diferenciar de verdade as armas, alcance e habilidades por classe; adicionar telegraph de ataque, dano recebido, aggro e retorno do monstro.
+- Acrescentar cadeia de quests, NPCs, loot, equipamento e feedback sonoro original/licenciado.
+
+Fase C — Conteudo e persistencia
+- Criar Cidade da Aurora e introducoes especificas para Santuario Celeste e Refugio Primordial.
+- Implementar inventario 5x6, equipamento, itens empilhaveis, recompensas e estados de quest.
+- Adicionar login somente apos configurar projeto, regras e ambiente Firebase.
+- Migrar salvamento para documentos versionados no Firestore, com validacao de propriedade, limites de taxa e regras de seguranca.
+- Servicos de backend devem validar operacoes sensiveis; o cliente nunca deve decidir sozinho recompensas, propriedade ou economia.
+
+Fase D — Multiplayer e expansao
+- Projetar servidor autoritativo e sincronizacao de movimento/combate antes de anunciar multiplayer.
+- Partidas/cooperacao, grupos, chat moderado, instancias e persistencia concorrente.
+- Regioes disputadas, faccoes, campanha do Abismo de Aether e consequencias das escolhas finais.
+
+9. ARQUITETURA TECNICA DESEJADA
+
+A base existente usa Vite, React, Three.js, React Three Fiber e Drei. Manter a renderizacao separada da interface e dividir as regras de jogo em modulos pequenos conforme os sistemas crescerem:
+- game/characters: estado, locomocao, modelos e animacoes.
+- game/world: terreno, cidade, vegetacao, clima, iluminacao e efeitos.
+- game/combat: habilidades, alcance, dano, critico, cooldown e alvo.
+- game/monsters: dados, spawn, IA e recompensas.
+- game/quests e game/npcs: dialogo, objetivos, progresso e recompensa.
+- game/inventory: itens, equipamento, uso e regras de atributos.
+- services/persistence: formato versionado e adaptadores local/cloud.
+- services/auth: autenticacao e sessao, quando houver configuracao real do provedor.
+- components/ui e styles: HUD, paineis acessiveis, design tokens e estilos.
+
+Migrar de JSX para TypeScript gradualmente, preservando o fluxo funcional e tipando primeiro os dados compartilhados (personagem, inimigo, habilidade, item, quest e salvamento). Evitar adicionar Firebase, bibliotecas de modelos ou servicos externos sem necessidade e configuracao verificavel.
+
+10. PERSISTENCIA E DADOS (ALVO FUTURO)
+
+Documento de personagem planejado:
+- id, ownerId, nickname, race, class, level, currentXp, freeAttributePoints.
+- stats: str, dex, int, vit, maxHp, currentHp, maxMp, currentMp, attack e defense.
+- position: x, y, z e mapRegion.
+- inventory, equipment, quests e gold.
+
+Eventos para salvar: criacao, subida de nivel, pontos de atributo, mudanca de mapa, quest, inventario/equipamento, logout e autosave de 60 segundos. O prototipo atual guarda uma versao reduzida desse estado em localStorage; isso nao e persistencia em nuvem nem copia segura contra adulteracao.
+
+11. CRITERIOS DE ACEITE E VALIDACAO
+
+- npm run build conclui sem erro.
+- Criar personagem exige nome de 3 a 16 caracteres e permite selecionar os tres povos.
+- WASD move sem reiniciar a posicao; corrida, salto e camera funcionam.
+- Os seis alvos podem ser selecionados; habilidades consomem mana, curam ou causam dano.
+- Derrotar inimigos concede XP/moedas, reaparece depois de um intervalo e permite subir de nivel.
+- A quest so pode ser concluida depois de tres eliminacoes e entrega recompensa uma unica vez.
+- Atributos livres sao consumidos corretamente e vida/mana maxima atualizam quando aplicavel.
+- Salvar, recarregar e continuar preserva personagem, localizacao, quest, moedas e inventario no navegador.
+- Paineis podem ser fechados por botao e Esc; interface nao usa alertas nativos.
+- Nenhum recurso externo ou API requer chave secreta no frontend.
+
+FIM DO PLANO
+>>>>>>> c252e1a04a157bcaa2ce28e880d8238f53df6eb4
